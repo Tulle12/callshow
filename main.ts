@@ -1,0 +1,12 @@
+basic.forever(function () {
+    basic.showString("D")
+    basic.pause(500)
+    basic.showString("L")
+    basic.pause(500)
+    basic.showString("7")
+    basic.pause(500)
+    basic.showString("H")
+    basic.pause(500)
+    basic.showString("F")
+    basic.pause(1000)
+})
