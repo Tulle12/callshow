@@ -8,5 +8,5 @@ basic.forever(function () {
     basic.showString("H")
     basic.pause(500)
     basic.showString("F")
-    basic.pause(1000)
+    basic.pause(2000)
 })
